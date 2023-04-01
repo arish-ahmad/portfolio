@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.b9dff976.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/wipro.png": "/home/static/media/wipro.a4777f9762ce8c7259a8.png",
-    "index.html": "/home/index.html",
-    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.b9dff976.js.map": "/home/static/js/main.b9dff976.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.fe927caf.css",
+    "main.js": "/portfolio/static/js/main.5a7ffa3b.js",
+    "static/js/787.4b24f717.chunk.js": "/portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/wipro.png": "/portfolio/static/media/wipro.a4777f9762ce8c7259a8.png",
+    "index.html": "/portfolio/index.html",
+    "main.fe927caf.css.map": "/portfolio/static/css/main.fe927caf.css.map",
+    "main.5a7ffa3b.js.map": "/portfolio/static/js/main.5a7ffa3b.js.map",
+    "787.4b24f717.chunk.js.map": "/portfolio/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.b9dff976.js"
+    "static/js/main.5a7ffa3b.js"
   ]
 }
